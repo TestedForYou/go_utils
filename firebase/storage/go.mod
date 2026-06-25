@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/firebase/storage
+module github.com/TestedForYou/go_utils/firebase/storage
 
 go 1.16
 

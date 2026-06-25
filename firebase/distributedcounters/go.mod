@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/firebase/distributedcounters
+module github.com/TestedForYou/go_utils/firebase/distributedcounters
 
 go 1.16
 

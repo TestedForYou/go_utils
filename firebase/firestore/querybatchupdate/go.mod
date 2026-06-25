@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/firebase/firestore/querybatchupdate
+module github.com/TestedForYou/go_utils/firebase/firestore/querybatchupdate
 
 go 1.16
 
