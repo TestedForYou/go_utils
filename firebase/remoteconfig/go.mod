@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/firebase/remoteconfig
+module github.com/TestedForYou/go_utils/firebase/remoteconfig
 
 go 1.16
 

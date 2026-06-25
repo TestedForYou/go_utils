@@ -1,3 +1,3 @@
-module github.com/sabriboughanmi/go_utils/firebase/cloudfunctions
+module github.com/TestedForYou/go_utils/firebase/cloudfunctions
 
 go 1.16

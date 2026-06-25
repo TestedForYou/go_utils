@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/firebase/fcm
+module github.com/TestedForYou/go_utils/firebase/fcm
 
 go 1.16
 

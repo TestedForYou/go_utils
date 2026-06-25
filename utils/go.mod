@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/utils
+module github.com/TestedForYou/go_utils/utils
 
 go 1.16
 

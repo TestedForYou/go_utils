@@ -1,4 +1,4 @@
-module github.com/sabriboughanmi/go_utils/iap/playstore
+module github.com/TestedForYou/go_utils/iap/playstore
 
 go 1.16
 
