@@ -3,7 +3,7 @@ package admob
 import (
 	"encoding/json"
 	"github.com/hiyali/go-lib-ssv/admob"
-	utils "github.com/sabriboughanmi/go_utils/utils"
+	utils "github.com/TestedForYou/go_utils/utils"
 	"net/url"
 	"strings"
 )

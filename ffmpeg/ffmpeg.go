@@ -14,8 +14,8 @@ import (
 	"time"
 
 	Vision "cloud.google.com/go/vision/apiv1"
-	osUtils "github.com/sabriboughanmi/go_utils/os"
-	"github.com/sabriboughanmi/go_utils/utils"
+	osUtils "github.com/TestedForYou/go_utils/os"
+	"github.com/TestedForYou/go_utils/utils"
 	"google.golang.org/protobuf/reflect/protoreflect"
 )
 

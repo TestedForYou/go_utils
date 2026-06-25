@@ -3,7 +3,7 @@ package customclaims
 import (
 	"context"
 	"firebase.google.com/go/auth"
-	"github.com/sabriboughanmi/go_utils/utils"
+	"github.com/TestedForYou/go_utils/utils"
 )
 
 

@@ -2,7 +2,7 @@ package fetchbatch
 
 import (
 	"cloud.google.com/go/firestore"
-	numbersUtils "github.com/sabriboughanmi/go_utils/utils"
+	numbersUtils "github.com/TestedForYou/go_utils/utils"
 )
 
 //AddCommand adds a FirestoreUpdateCommand to the Queue

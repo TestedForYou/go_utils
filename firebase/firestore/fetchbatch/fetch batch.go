@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/sabriboughanmi/go_utils/utils"
+	"github.com/TestedForYou/go_utils/utils"
 	"sync"
 )
 

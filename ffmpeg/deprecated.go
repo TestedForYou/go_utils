@@ -3,7 +3,7 @@ package ffmpeg
 import (
 	"bytes"
 	"fmt"
-	osUtils "github.com/sabriboughanmi/go_utils/os"
+	osUtils "github.com/TestedForYou/go_utils/os"
 	"os"
 	"os/exec"
 )
